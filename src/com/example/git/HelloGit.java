@@ -7,6 +7,6 @@ public class HelloGit {
         
         System.out.println("CI build triggered!");
         
-        System.out.println("Webhook Added");
+        System.out.println("Webhook Added and triggerred using Pipeline");
     }
 }
